@@ -1,1 +1,1 @@
-# drt-rs-sc-gravity-restaking
+# rs-sc-gravity-restaking
